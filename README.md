@@ -1,42 +1,85 @@
+<p align="center">
+  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/githubBannerFinalForMe.png" alt="banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Taherun Nesa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Frontend+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Frontend+Developer;React+Learner;UI%2FUX+Lover" />
 </p>
 
 <h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
-
-<p align="center">
-  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/githubBannerFinalForMe.png" alt="banner" width="100%" />
-</p>
 
 ---
 
 ## 👩‍💻 About Me
 - 🌱 I’m currently learning **React.js & Modern JavaScript**
-- 💡 I love building clean & responsive Website
+- 💡 I love building clean & responsive websites
 - 🎯 Goal: Become a **Professional Frontend Developer**
 - 🎨 I enjoy designing in **Figma**
 
 ---
 
 ## 🌐 Portfolio
-👉 https://taherunnesaportfolio.netlify.app
+<p>
+  <a href="https://taherunnesaportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Project 1: Portfolio Website  
-📌 **Live:** https://taherun-nesa06.github.io/TechWave/  
-💻 **Repository:** https://github.com/taherun-nesa06/TechWave.git  
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-### 🔹 Project 2: Responsive Landing Page  
-📌 **Live:** https://taherun-nesa06.github.io/payoo-code  
-💻 **Repository:** https://github.com/taherun-nesa06/payoo-code  
+### 🔹 TechWave
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/taherun-nesa06/TechWave/main/images/techwave.png" width="100%" 
+  style="border-radius:12px; border:2px solid transparent; 
+  background: linear-gradient(white, white) padding-box, 
+  linear-gradient(135deg, #0e75b6, #00c6ff) border-box;" />
+</p>
+
+<p align="center">
+  <a href="https://taherun-nesa06.github.io/TechWave/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live%20Demo-00c853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/taherun-nesa06/TechWave" target="_blank">
+    <img src="https://img.shields.io/badge/💻 Source%20Code-24292e?style=for-the-badge"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Payoo Code
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/taherun-nesa06/payoo-code/main/images/payoo.png" width="100%" 
+  style="border-radius:12px; border:2px solid transparent; 
+  background: linear-gradient(white, white) padding-box, 
+  linear-gradient(135deg, #0e75b6, #00c6ff) border-box;" />
+</p>
+
+<p align="center">
+  <a href="https://taherun-nesa06.github.io/payoo-code" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live%20Demo-00c853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/taherun-nesa06/payoo-code" target="_blank">
+    <img src="https://img.shields.io/badge/💻 Source%20Code-24292e?style=for-the-badge"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
