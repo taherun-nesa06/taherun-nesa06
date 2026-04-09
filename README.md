@@ -39,7 +39,7 @@
 ### 🔹 TechWave
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/taherun-nesa06/TechWave/main/images/techwave.png" width="100%" 
+  <img src="" width="100%" 
   style="border-radius:12px; border:2px solid transparent; 
   background: linear-gradient(white, white) padding-box, 
   linear-gradient(135deg, #0e75b6, #00c6ff) border-box;" />
@@ -61,7 +61,7 @@
 ### 🔹 Payoo Code
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/taherun-nesa06/payoo-code/main/images/payoo.png" width="100%" 
+  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/Payoo0111111111.jpg" width="100%" 
   style="border-radius:12px; border:2px solid transparent; 
   background: linear-gradient(white, white) padding-box, 
   linear-gradient(135deg, #0e75b6, #00c6ff) border-box;" />
