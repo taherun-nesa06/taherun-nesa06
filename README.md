@@ -1,7 +1,3 @@
-<!-- 🔷 Banner Image (replace link with your own) -->
-<p align="center">
-  <img src="https://your-banner-image-link.com" alt="banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Taherun Nesa</h1>
 
@@ -10,6 +6,10 @@
 </p>
 
 <h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/githubBannerFinalForMe.png" alt="banner" width="100%" />
+</p>
 
 ---
 
