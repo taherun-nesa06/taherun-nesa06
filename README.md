@@ -39,7 +39,7 @@
 ### 🔹 TechWave
 
 <p align="center">
-  <img src="" width="100%" 
+  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/TechWaveeee.png" width="50%" 
   style="border-radius:12px; border:2px solid transparent; 
   background: linear-gradient(white, white) padding-box, 
   linear-gradient(135deg, #0e75b6, #00c6ff) border-box;" />
