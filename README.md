@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Taherun Nesa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Frontend+Developer;React+Learner;UI%2FUX+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Frontend-Developer;" />
 </p>
 
 <h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
@@ -39,10 +39,10 @@
 ### 🔹 TechWave
 
 <p align="center">
-  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/TechWaveeee.png" width="50%" 
-  style="border-radius:12px; border:2px solid transparent; 
+  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/TechWave%20Banner.png" width="100%" height="250px"
+  style="border-radius:12px; border:2px solid transparent; padding: 20px 8px;
   background: linear-gradient(white, white) padding-box, 
-  linear-gradient(135deg, #0e75b6, #00c6ff) border-box;" />
+  linear-gradient(135deg, #0e75b6, #00c6ff) border-box; object-fit: cover;" />
 </p>
 
 <p align="center">
@@ -61,10 +61,10 @@
 ### 🔹 Payoo Code
 
 <p align="center">
-  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/Payoo0111111111.jpg" width="100%" 
-  style="border-radius:12px; border:2px solid transparent; 
+  <img src="https://github.com/taherun-nesa06/taherun-nesa06/blob/main/Payoo0111111111.jpg" width="100%" height="250px"
+  style="border-radius:12px; border:2px solid transparent; padding: 20px 8px;
   background: linear-gradient(white, white) padding-box, 
-  linear-gradient(135deg, #0e75b6, #00c6ff) border-box;" />
+  linear-gradient(135deg, #0e75b6, #00c6ff) border-box; object-fit: cover;" />
 </p>
 
 <p align="center">
