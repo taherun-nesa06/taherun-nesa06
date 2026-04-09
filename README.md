@@ -21,10 +21,12 @@
 ---
 
 ## 🌐 Portfolio
-<p>
+<p align="center">
+  <br> <!-- উপরের স্পেস -->
   <a href="https://taherunnesaportfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
+  <br><br> <!-- নিচের স্পেস -->
 </p>
 
 ---
